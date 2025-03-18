@@ -9,7 +9,12 @@
 ## Como funciona:
 
 *   A ideia é digitar uma lista de amigos e em seguida pressionar o botão sortear um amigo na tela principal da aplicação.
-*   
+
+## Aprendizados aplicados:
+
+*  Variáveis.
+*  Arrays.
+*  
 
 ## Tecnologias Utilizadas
 
