@@ -14,6 +14,8 @@
 
 *  Variáveis.
 *  Arrays.
+*  Caixas de mensagem.
+*  Console do Navegador.  
 *  Condicional.
 *  Loops.
 *  Funções.
