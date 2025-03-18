@@ -16,14 +16,16 @@
 *  Arrays.
 *  
 
-## Tecnologias Utilizadas
+## Tecnologias Utilizadas:
 
 *   HTML
 *   CSS
 *   JavaScript
 
-## Projeto
+## Projeto:
 
-* Bruno Carvalho**
+* Bruno Carvalho
+
+## Onde encontrar:
 
 *   [GitHub](https://github.com/brunodsh/projeto-one-challenge-amigo-secreto)
