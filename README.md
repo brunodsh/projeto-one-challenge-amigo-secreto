@@ -14,7 +14,9 @@
 
 *  Variáveis.
 *  Arrays.
-*  
+*  Condicional.
+*  Loops.
+*  Funções.
 
 ## Tecnologias Utilizadas:
 
@@ -22,7 +24,7 @@
 *   CSS
 *   JavaScript
 
-## Projeto:
+## Desenvolvedor:
 
 * Bruno Carvalho
 
