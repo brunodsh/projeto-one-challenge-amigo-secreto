@@ -33,3 +33,27 @@
 ## Onde encontrar:
 
 *   [GitHub](https://github.com/brunodsh/projeto-one-challenge-amigo-secreto)
+
+
+
+## 4 passos para sortear o Amigo Secreto
+
+> Escreva o nome, click em adicionar e confirme na caixa de mensagem:
+
+![Primeiro Passo](assets/step01.png)
+
+> Conforme escreve, vai sendo adicionado os nomes a lista que será sorteada:
+
+![Primeiro Passo](assets/step02.png)
+
+> Agora click em Sortear Amigo no botão laranja:
+
+![Primeiro Passo](assets/step03.png)
+
+> Se continuar clicando no botão laranja, vai fazendo novos sorteios:
+
+![Primeiro Passo](assets/step04.png)
+
+<br>
+
+#  _Divirtam-se!!!_
